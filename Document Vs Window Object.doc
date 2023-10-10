@@ -1,0 +1,50 @@
+Document Object :
+
+While we loading the webpage in browser it shows some content is called
+document object
+
+Document Object have some methods like fullscreenEnabled(),open(),
+write() etc.,
+
+The Purpose of methods is to query (i.e) to do that process and also we 
+can change the document structure
+
+The Scope is nothing but the process of variables, objects & functions
+from different parts of the code. 
+
+For Document this Scope is limited in webpage
+
+Document object is part of the browser object model and document object
+model
+
+Properities of document such as activeElement, body, head, scripts etc.,
+this properities can be returned or utilizing by itself.
+
+While we can access the document from the window with the help of
+"window.document"
+
+It is loaded in the window
+
+The syntax for Document Object is :
+document.propertyName
+
+
+Window Object :
+
+In webpage it determined the browser tab called Window Object
+
+Window Object do some process such as resizing, scrolling or closing
+
+The scope can extend the current document to a tab of the browser
+
+It is only part of the browser object model
+
+Properities of window object are not accessible using the documnt object
+
+It can also access by using the "window.window"
+
+It is loaded in browser
+
+The Syntax for Window object is :
+window.propertyName
+
